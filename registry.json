@@ -1,10 +1,10 @@
 {
   "name": "redfox",
   "type": "scaffold",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Alex Foxleigh (https://www.alexfoxleigh.com/)",
   "funding": "https://www.patreon.com/builda",
-  "moduleUrl": "https://github.com/builda-modules/redfox",
+  "moduleUrl": "https://github.com/builda-modules/scaffold_redfox",
   "description": "This is the scaffold that I ([@foxleigh81](https://github.com/foxleigh81)) use myself to create my own projects. *Note:* You will need to install the burrow prefab (or configure storybook the same way) before you can use this scaffold as is. \n",
   "keywords": [
     "react",
