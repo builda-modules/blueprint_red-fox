@@ -2,7 +2,10 @@
   "name": "red-fox",
   "type": "scaffold",
   "version": "1.0.1",
-  "author": "Alex Foxleigh (https://www.alexfoxleigh.com/)",
+   "author": {
+    "name": "Alex Foxleigh",
+    "builda_user": "foxleigh81"
+  },
   "funding": "https://www.patreon.com/builda",
   "moduleUrl": "https://github.com/builda-modules/scaffold_red-fox",
   "keywords": [
